@@ -4,6 +4,7 @@ using namespace std;
 main()
 {
 
+	
 	int p_p=0, p_b=0, p_s=0, p_i=0, p_c=0 ; 
 	int s_p=0, s_b=0, s_s=0, s_i=0, s_c=0 ; 
 	int p=0, b=0, s=0, i=0, c=0 ; 
